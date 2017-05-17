@@ -1,0 +1,11 @@
+*******************************************************
+             Employee Salary Detail          
+*******************************************************
+Employee no.  : 1
+Employee name : taha
+Basic Salary  : 165000
+House Allowance: 16500
+Medical Allowance: 8250
+TAX : 6600
+Gross Payment : 189750
+Net salary 183150
